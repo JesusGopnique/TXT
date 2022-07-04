@@ -1,3 +1,3 @@
 1) best skill
-2)I'll learn to create txt files in git
+2) I can using GIT
 3)I can testing software
